@@ -83,6 +83,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | EAN-Search.org | Product Data | `https://www.ean-search.org/mcp` | OAuth2.1 | [EAN-Search.org](https://www.ean-search.org) |
 | Egnyte | Document Management | `https://mcp-server.egnyte.com/sse` | OAuth2.1 | [Egnyte](https://egnyte.com) |
 | Fathom | Meeting Notes | `https://api.fathom.ai/mcp` | OAuth2.1 | [Fathom](https://fathom.ai) |
+| Feminiq Rides | Transit | `https://www.feminiqrides.nl/mcp` | Open | [Feminiq Rides](https://www.feminiqrides.nl) |
 | Figma | Design | `https://mcp.figma.com/mcp` | OAuth2.1 🔐 | [Figma](https://figma.com) |
 | Fireflies.ai | Meeting Notes | `https://api.fireflies.ai/mcp` | OAuth2.1 | [Fireflies.ai](https://fireflies.ai) |
 | Find-A-Domain | Productivity | `https://api.findadomain.dev/mcp` | Open | [Find-A-Domain](https://findadomain.dev) |
@@ -97,6 +98,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Indeed | Job Board | `https://mcp.indeed.com/claude/mcp` | OAuth2.1 | [Indeed](https://indeed.com) |
 | Invidio | Video Platform | `https://mcp.invideo.io/sse` | OAuth2.1 | [Invidio](https://invideo.io/) |
 | Jam | Software Development | `https://mcp.jam.dev/mcp` | OAuth2.1 | [Jam.dev](https://jam.dev/) |
+| Jet Cab AMS | Transit | `https://www.jetcabams.nl/mcp` | Open | [Jet Cab AMS](https://www.jetcabams.nl) |
 | Kollektiv | Documentation | `https://mcp.thekollektiv.ai/sse` | Oauth2.1 | [Kollektiv](https://github.com/alexander-zuev/kollektiv-mcp) |
 | LiveScore MCP | Sports | `https://livescoremcp.com/sse` | Open | [LiveScore MCP](https://github.com/holoduke/livescore-mcp) |
 | Linear | Project Management | `https://mcp.linear.app/sse` | OAuth2.1 | [Linear](https://linear.app) |
